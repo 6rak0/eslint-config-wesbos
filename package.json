@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-6rak0",
   "version": "0.0.1",
-  "description": "ESLint and Prettier Config",
+  "description": "Configuración ESLint y Prettier",
   "keywords": [
     "javascript",
     "ecmascript",
@@ -11,7 +11,7 @@
     "prettier"
   ],
   "main": "index.js",
-  "author": "Wes bos <wes@wesbos.com>",
+  "repository": "git@github.com:6rak0/eslint-config-6rak0.git",
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^9.0.0",
